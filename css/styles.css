@@ -159,20 +159,18 @@ button {
     word-wrap: break-word;   
 }
 
-.our-team {
-    background-color: #F4F4FD;
-}
 
 .ourtqam-list-item {
     background-color: #FFFFFF
+}
+
+.ourteam-list {
+    background-color: #F4F4FD
 }
 /*===== /SECTION OURTEAM/=====*/
 
 
 /*===== SECTION OUR PORTFOLIO =====*/
-.our-team {
-    background-color: #FFFFFF
-}
 
 .section-title {
     text-align: center
