@@ -13,7 +13,7 @@
     line-height: 1.17;
     letter-spacing: 0.03em;
     word-wrap: break-word;
-    color: #2e2f42 
+    color: #f4f4fd
 }
 
 span {
@@ -72,6 +72,9 @@ body {
     color: #434455;
 }
 
+section {
+    background-color: #F4F4FD
+}
 /*===== HERO SECTION======*/
 .main-title {
     color: white;
