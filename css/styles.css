@@ -57,6 +57,7 @@
 body {
     font-family:'Roboto', sans-serif; 
     background-color: #FFFFFF;
+    color: #434455;
 }
 
 /*===== HERO SECTION======*/
@@ -103,9 +104,6 @@ button {
 
 
 /*===== SECTION DESCRIPTION =====*/
-.el > span{
-display: none;
-}
 
 .description-list-title {
     color: #2E2F42;
