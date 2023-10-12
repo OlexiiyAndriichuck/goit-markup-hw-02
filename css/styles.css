@@ -87,7 +87,13 @@ body {
     word-wrap: break-word ;
 }
 
-
+.hero {
+    text-align: center
+}
+button:hover,
+button:focus {
+    background-color: #404BBF
+}
 button {
     cursor: pointer;
     background-color: #4D5AE5;
@@ -124,10 +130,11 @@ button {
 
 .description-list-text {
     color: #434455;
-font-size: 16px;
-font-weight: 400;
-line-height: 1.5;
-letter-spacing: 0.02em;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    word-wrap: break-word;
 }
 
 /*===== /SECTION DESCRIPTION/ =====*/
