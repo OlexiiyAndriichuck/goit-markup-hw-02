@@ -41,6 +41,7 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     word-wrap: break-word;
+    font-style: normal;
 }
 
 .menu-contacts:hover,
@@ -50,6 +51,10 @@
 .menu-link:hover,
 .menu-link:focus {
     color: #404BBF
+}
+
+.page-header-contacts {
+    font-style: normal;
 }
 
 /*===== / HEADER SECTION/ ======*/
