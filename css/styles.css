@@ -127,6 +127,7 @@ button {
 font-size: 16px;
 font-weight: 400;
 line-height: 1.5;
+letter-spacing: 0.02em;
 }
 
 /*===== /SECTION DESCRIPTION/ =====*/
@@ -184,6 +185,13 @@ line-height: 1.5;
     word-wrap: break-word;  
 }
 
+.portfolio-section {
+    background-color: #F4F4FD
+}
+
+.portfolio-list {
+    background-color: #FFFFFF
+}
 /*===== /SECTION OUR PORTFOLIO/ =====*/
 
 /*===== PAGE FOOTER =====*/
